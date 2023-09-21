@@ -1,5 +1,18 @@
 ola sou eu alterei o ficheiro
 
+
+<h1>
+
+<h2>Comidas</h2>
+
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
+	<li>Sumos</li>
+
+</ul>
+
 <h2>Bebdidas</h2>
 
 	<ul>
@@ -7,3 +20,4 @@ ola sou eu alterei o ficheiro
 		<li>Tea</li>
 		<li>Milk</li>
 	</ul>
+
