@@ -1,2 +1,5 @@
 Fiz uma alteracao neste ficheiro
+
 Alteracoes efetuadas no branch NovaFeature
+
+Alteracao no branch MASTER

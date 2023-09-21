@@ -1,5 +1,6 @@
 ola sou eu alterei o ficheiro
 
+<<<<<<< HEAD
 <h1>
 
 <h2>Comidas</h2>
@@ -11,3 +12,12 @@ ola sou eu alterei o ficheiro
 	<li>Sumos</li>
 
 </ul>
+=======
+<h2>Bebdidas</h2>
+
+	<ul>
+		<li>Coffe</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
+>>>>>>> NovaFeature
