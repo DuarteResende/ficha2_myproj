@@ -1,1 +1,9 @@
 ola sou eu alterei o ficheiro
+
+<h2>Bebdidas</h2>
+
+	<ul>
+		<li>Coffe</li>
+		<li>Tea</li>
+		<li>Milk</li>
+	</ul>
